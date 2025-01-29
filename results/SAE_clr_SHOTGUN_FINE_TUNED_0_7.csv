@@ -1,0 +1,9 @@
+Metric,Value
+Best fold,4.0
+Best F1-score,0.9090909090909091
+macro avg precision,0.8671428571428572
+macro avg recall,0.8600000000000001
+macro avg f1-score,0.8578166278166279
+weighted avg precision,0.8671428571428572
+weighted avg recall,0.8600000000000001
+weighted avg f1-score,0.8578166278166279

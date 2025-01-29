@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "install-scikit-bio",
+			"command": "pip",
+			"args": [
+				"install",
+				"scikit-bio"
+			],
+			"presentation": {
+				"reveal": "silent"
+			}
+		}
+	]
+}
